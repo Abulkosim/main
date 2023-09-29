@@ -2,7 +2,7 @@
   <div class="h-[100vh] flex justify-center items-center">
     <div class="flex flex-col items-center gap-5">
       <div class="w-40 h-40">
-        <img class="rounded-full w-full drop-shadow-xl" src="https://i.postimg.cc/pLB8gSkd/picture.png"
+        <img class="rounded-full w-full drop-shadow-xl" src="https://i.postimg.cc/SKN8qGtf/profile.png"
           alt="Profile Picture">
       </div>
       <div class="text-center">
@@ -47,7 +47,7 @@ div a {
 }
 
 .icons a {
-  @apply transition-all ease-linear duration-300;
+  @apply transition-all ease-linear duration-300 outline-none;
 }
 
 .icons a:hover {
