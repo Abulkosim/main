@@ -16,7 +16,8 @@
         <a href="https://www.linkedin.com/in/abulkosim" title="LinkedIn">
           <PhLinkedinLogo :size="36" weight="fill" />
         </a>
-        <a href="#" title="CV">
+        <a href="https://docs.google.com/document/d/1Djf_lYs9BNm4Lizp2TYjGre7oHgeaAItgxarVEaxqY4/edit?usp=sharing"
+          title="CV">
           <PhReadCvLogo :size="36" weight="fill" />
         </a>
         <a href="mailto:abulkasimkattaev@gmail.com" title="Email">
