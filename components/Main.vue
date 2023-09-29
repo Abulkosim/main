@@ -2,7 +2,7 @@
   <div class="h-[100vh] flex justify-center items-center">
     <div class="flex flex-col items-center gap-5">
       <div class="w-40 h-40">
-        <img class="rounded-full w-full drop-shadow-xl" src="../assets/images/profile.PNG" alt="Profile Picture">
+        <img class="rounded-full w-full drop-shadow-xl" src="..\assets\images\picture.PNG" alt="Profile Picture">
       </div>
       <div class="text-center">
         <h1 class="text-3xl font-semibold mb-1">Abulkosim</h1>
@@ -45,7 +45,11 @@ div a {
   filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
 
+.icons a {
+  @apply transition-all ease-linear duration-300;
+}
+
 .icons a:hover {
-  @apply translate-y-[-5px] duration-500;
+  @apply translate-y-[-5px];
 }
 </style>
