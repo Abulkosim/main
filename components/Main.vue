@@ -2,7 +2,8 @@
   <div class="h-[100vh] flex justify-center items-center">
     <div class="flex flex-col items-center gap-5">
       <div class="w-40 h-40">
-        <img class="rounded-full w-full drop-shadow-xl" src="..\assets\images\picture.PNG" alt="Profile Picture">
+        <img class="rounded-full w-full drop-shadow-xl" src="https://i.postimg.cc/pLB8gSkd/picture.png"
+          alt="Profile Picture">
       </div>
       <div class="text-center">
         <h1 class="text-3xl font-semibold mb-1">Abulkosim</h1>
